@@ -1,5 +1,5 @@
 #EXTM3U url-tvg = “url-tvg = “https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml” 
-#EXTINF:-1, tvg-id=»ButacaTV» ES: LA 1 HD
+#EXTINF:-1, tvg-id=»LA 1 HD» ES: LA 1 HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321277.ts
 #EXTINF:-1,ES: LA 1 SD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321278.ts
