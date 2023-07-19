@@ -1,4 +1,4 @@
-#EXTM3U url-tvg = “url-tvg = “https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml” 
+#EXTM3U url-tvg = “url-tvg = “https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml.gz” 
 #EXTINF:-1,ES: LA 1 HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321277.ts
 #EXTINF:-1,ES: LA 1 SD
