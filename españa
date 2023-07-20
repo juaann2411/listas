@@ -1,4 +1,15 @@
 #EXTM3U url-tvg = “url-tvg = “https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml” 
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:68130
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXTINF:9.601,
+media_w25054626_b565000_68130.ts
+#EXTINF:9.6,
+media_w25054626_b565000_68131.ts
+#EXTINF:9.6,
+media_w25054626_b565000_68132.ts
+
 #EXTINF:-1,ES: LA 1 HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321277.ts
 #EXTINF:-1,ES: LA 1 SD
