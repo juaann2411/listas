@@ -1,4 +1,4 @@
-#EXTM3U url-tvg = “url-tvg = “https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml”
+#EXTM3U url-tvg = “https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv0.xml”
 #EXTINF:-1,La 1 SD
 http://xtra.fireottplus.com:2052/belguimm/PT88yuPMSsBt/96137
 #EXTINF:-1,La 1 HD 
