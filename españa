@@ -87,6 +87,94 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228388.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228394.ts
 #EXTINF:-1,ES: M+ DAZN 4 HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228398.ts
+#EXTINF:-1,ES: DAZN 1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/64711
+#EXTINF:-1,ES: DAZN 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/64712
+#EXTINF:-1 ,ES: DAZN 3
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/269912
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7b834941508cb1ab7d5787042c10bc7b.png" group-title="Spain ➾ Football",ES: DAZN 4
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/269911
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="ES: DAZN F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fdf414dd4d51defa5e59c52c95abb2c5.png" group-title="Spain ➾ Sports",ES: DAZN F1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1672
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/7c83dbf4ff68c32c3a692312a13a4d79.jpg" group-title="Spain",ES: DAZN LaLiga
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297787
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/919f1429f4969700078f3cfded40151c.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297788
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/18bb555912f34dff06c2de73b972737b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297791
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/db1b5c362ed561b2c801433ba3e3f13b.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297790
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga Smartbank TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-03/202142881d4f8c20b932b94b581c0938.svg" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 3
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297789
+#EXTINF:-1 tvg-id="" tvg-name="ES: LaLiga TV Bar" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png" group-title="Spain ➾ Football",ES: LaLiga TV Bar
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197711
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: MOVISTAR LaLiga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/83c20e93f805d1c0de43abcaf10f42de.png" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/1141
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LaLiga 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2f992ea3f06a9d0385df6e3e39e2c00b.png" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/5311
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LaLiga 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/22ba20bcd4a9505d1ad7435f1dceaa93.png" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 3
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/281772
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LaLiga 4" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/158d3d24cbf3ba9dc16e939750ab0ad9.png" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 4
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/269466
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LaLiga 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/8547f7041c05f04ce7aad56c67b64481.png" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 5
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/281792
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/98c3b45e9801cd9fe5e72bc8d42b859d.png" group-title="Spain ➾ Football",ES: MOVISTAR LIGA DE CAMPEONES
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/2800
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LIGA DE CAMPEONES 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/8d75f42f9380554385d706be8d276912.png" group-title="Spain ➾ Football",ES: MOVISTAR LIGA DE CAMPEONES 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/81096
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Liga De Campeones 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Movistar Liga De Campeones 3
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298805
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Liga De Campeones 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Movistar Liga De Campeones 6
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298808
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Liga De Campeones 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Spain",ES: Movistar Liga De Campeones 7
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/146661
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="France ➾ Football",FR: beIN Sports 1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/144
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="France ➾ Football",FR: beIN Sports 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/145
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="France ➾ Football",FR: beIN Sports 3
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/146
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e2a161fa7650f78d827bb7e8cd3c21.png" group-title="France",FR: beIN Sports Max 4
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/3599
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: beIN Sports Max 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c8cadfdb308ce51abcaac8220528833e.png" group-title="France",FR: beIN Sports Max 5
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/6083
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: beIN Sports Max 6" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6250ce9aa48d84200378db8e1c293ecb.png" group-title="France ➾ Sports",FR: beIN Sports Max 6
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/4368
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: beIN Sports Max 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b2834f48777b3cd3bd463f5f88a80a2d.png" group-title="France ➾ Sports",FR: beIN Sports Max 7
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/4369
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: beIN Sports Max 8" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7b8e9459b28777e8b6123dd030b7b88d.png" group-title="France ➾ Sports",FR: beIN Sports Max 8
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/4370
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: beIN Sports Max 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/6373a7564fe06eaffa6429200895b1ab.png" group-title="France ➾ Sports",FR: beIN Sports Max 9
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/4371
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: beIN Sports Max 10" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/188bf35c841af13de45c2cf86e7438b5.png" group-title="France",FR: beIN Sports Max 10
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/6088
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Formula 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/023d2b998cbf030c0e554eb18c6eb546.jpg" group-title="France ➾ Sports",FR: CANAL+ Formula 1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/295260
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Grand Ecran" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France ➾ Movie",FR: CANAL+ Grand Ecran
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298741
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Kids" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3fb27f3520022e79fe242fe2de5c88e7.png" group-title="France ➾ Kids",FR: CANAL+ Kids
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/281601
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ MotoGP" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="France ➾ Sports",FR: CANAL+ MotoGP
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297423
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Premier League" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7818fcb393391e3a63a512f8a92f0b7e.png" group-title="France ➾ Football",FR: CANAL+ Premier League
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/286794
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="FR: CANAL+ Series" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/3cb04d35c090108c3d40ea207b43fbda.png" group-title="France ➾ Movie",FR: CANAL+ Series
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/173
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL+ Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/567fa14e0c1befb33fd593795f63452b.png" group-title="France ➾ Sports",FR: CANAL+ Sport
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/143
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/1c3051796e55e0ae4bc5c67f6bc50c49.jpg" group-title="France ➾ Sports",FR: CANAL+ Sport 1
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/291175
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/207d0bf6cb14838f26078d7702168090.png" group-title="France ➾ Sports",FR: CANAL+ Sport 2
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/298742
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ccdd67e3afbdfaa1fabdc29c99820433.png" group-title="France ➾ Sports",FR: CANAL+ Sport 3
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/291177
+#EXTINF:-1 FR: CANAL+ Sport 4
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297381
+#EXTINF:-1 FR: CANAL+ Sport 5
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/291178
+#EXTINF:-1 FR: CANAL+ Sport 360
+http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/297378
 #EXTINF:-1,ES: U-BEAT HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165452.ts
 #EXTINF:-1,ES: M+ GOLF FHD
